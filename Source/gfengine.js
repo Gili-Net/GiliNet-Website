@@ -1,3 +1,4 @@
+/*This is the custom variant of GFEngine that the website uses.*/
 class GFEngine {
     constructor(config) {
         this.containerId = config.container || 'news-scroll-container';
